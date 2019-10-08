@@ -1,4 +1,4 @@
-# Avaliação
+# Avaliação 1
 
 ## Introdução
 O DNA humano é uma estrutura em dupla hélice, cada uma composta por bases nitrogenadas. Essas bases podem ser de quatro tipos: Citosina (C), Guanina (G), Adenina (A) e Timina (T). Separando a hélice em duas fitas, cada uma pode ser lida como uma sequência de bases. Para cada base na fita, há uma outra complementar na outra fita. As bases complementares são: Adenina com Timina e Citosina com Guanina. Dessa forma, se uma sequência é **AATGCTCC**, a outra só pode ser **TTACGAGG**.
