@@ -9,7 +9,6 @@ O seu objetivo nessa avaliação é criar um sistema distribuído, seguindo o mo
 ## Cliente
 O Cliente deverá solicitar ao usuário diversos pares de sequências, uma de cada vez, até que a primeira sequência seja vazia. A cada vez que uma sequência é lida, ela deve ser enviada ao servidor para verificar se é uma sequência de DNA, ou seja, uma sequência que só contém as bases nitrogenadas. Após enviar o par de sequências, o cliente deve perguntar ao servidor se o par enviado é formado por duas sequências complementares.
 Ao final de todos os pares, o cliente deve enviar ao servidor uma string contendo FIM, a qual o servidor retornará o tamanho da maior sequência pertencente a um par complementar.
-Servidor
 
 ## Servidor
 O servidor deverá ser implementado prevendo a possibilidade de diversas conexões simultâneas. Para tal, deve utilizar uma thread para cada conexão. A porta a ser utilizada pelo servidor será 8792.
